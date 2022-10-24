@@ -197,7 +197,7 @@ img {
 
 .btn {
     padding: 10px 20px;
-    border-bottom: 2px solid #58198d;
+    border-bottom: 2px solid #d8a9ff;
     font-size: 18px;
     font-weight: 800;
     text-transform: uppercase;
@@ -216,7 +216,7 @@ img {
 }
 
 .btn::after {
-    background-color: #58198d;
+    background-color: #d8a9ff;
     bottom: 0;
     left: 0;
 }
@@ -227,7 +227,7 @@ img {
 }
 
 .btn:hover::before {
-    background-color: #39105a;
+    background-color: #d8a9ff;
     left: 5px;
     bottom: -5px;
 }
